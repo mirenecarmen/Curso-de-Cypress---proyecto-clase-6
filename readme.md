@@ -7,17 +7,17 @@
 
 -  Verifica que la información del hotel esté presente en la página.
 
-![image.png] (images/image1.png)
+![image.png](images/image1.png)
 
 -  Asegurate de que haya al menos una imagen visible.
 
-![image.png] (images/image2.png)
+![image.png](images/image2.png)
 
-![image.png] (images/image3.png)
+![image.png](images/image3.png)
 
 -  Confirma que el texto de la descripción del hotel sea el esperado.
     
-    ![image.png] (images/image4.png)
+![image.png](images/image4.png)
     
 
 -  Crea comandos personalizados para reutilizar el código (basado en el código proporcionado).
